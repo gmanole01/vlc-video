@@ -22,7 +22,7 @@
   },
   "peerDependencies": {
     "wcjs-prebuilt": "github:RuurdBijlsma/wcjs-prebuilt",
-    "electron": "11.1.0",
+    "electron": "24.1.2",
     "vue": "^2.6.11"
   }
 }
