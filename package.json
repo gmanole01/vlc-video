@@ -21,7 +21,7 @@
     "wrap-chimera": "github:RuurdBijlsma/wrap-chimera"
   },
   "peerDependencies": {
-    "wcjs-prebuilt": "github:RuurdBijlsma/wcjs-prebuilt",
+    "wcjs-prebuilt": "3.0.0",
     "electron": "24.1.2",
     "vue": "^2.6.11"
   }
